@@ -1,0 +1,107 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 110543900,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "CreateAccountTestSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 11422120700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "As a user I can verify that user can browse our store on Map",
+        "description": "",
+        "id": "our-store-map-functionality;as-a-user-i-can-verify-that-user-can-browse-our-store-on-map",
+        "after": [
+          {
+            "result": {
+              "duration": 1068964200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6120794400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on Our Stores link",
+            "match": {
+              "location": "OurStoreTestSteps.iClickOnOurStoresLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 161088300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I can click on Map",
+            "match": {
+              "location": "OurStoreTestSteps.iCanClickOnMap()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 972166400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I can see stores from West Palm Beach",
+            "match": {
+              "location": "OurStoreTestSteps.iCanSeeStoresFromWestPalmBeach()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Our store map functionality",
+    "description": "",
+    "id": "our-store-map-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/OurStoreTest.feature"
+  }
+]

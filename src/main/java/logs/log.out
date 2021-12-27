@@ -1,0 +1,125 @@
+2021-12-26 11:12:959 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 11:12:383 INFO  HomePage :57 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (76e5873baf5bb894ce586b56231c54f0)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 11:12:444 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (76e5873baf5bb894ce586b56231c54f0)] -> xpath: //span[@class='cat-name']]
+2021-12-26 11:12:569 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 11:12:322 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 11:12:888 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:131 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:528 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:662 INFO  HomePage :59 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (69841459358e1531afa2d100d6d6dc47)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:02 INFO  HomePage :63 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (69841459358e1531afa2d100d6d6dc47)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:63 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (69841459358e1531afa2d100d6d6dc47)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:540 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:646 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (505a46df28586eefcf68ce37f7e65b9c)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:571 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (505a46df28586eefcf68ce37f7e65b9c)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:667 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (505a46df28586eefcf68ce37f7e65b9c)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:741 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:620 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (7582428884878343155dc6367ed63efd)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:711 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (7582428884878343155dc6367ed63efd)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:789 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (7582428884878343155dc6367ed63efd)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:249 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:141 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (f151ae85c5387468d7ddd0d24befcc19)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:105 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (f151ae85c5387468d7ddd0d24befcc19)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:154 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (f151ae85c5387468d7ddd0d24befcc19)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:59 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:975 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (d2b5f6d11c29f4fedf7f00cc40f9faa3)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:814 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (d2b5f6d11c29f4fedf7f00cc40f9faa3)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:868 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (d2b5f6d11c29f4fedf7f00cc40f9faa3)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:166 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:409 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (8b99e97ec34acec85da13ba1bfec555b)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:206 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (8b99e97ec34acec85da13ba1bfec555b)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:265 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (8b99e97ec34acec85da13ba1bfec555b)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:124 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:913 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (082aa265a0eb1543c569904a9cd54d73)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:560 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (082aa265a0eb1543c569904a9cd54d73)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:606 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (082aa265a0eb1543c569904a9cd54d73)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:95 INFO  WomenCategoryPage :94 - Drag Slider : 
+2021-12-26 12:12:416 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:70 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (108b56d4532351793707f4b08a860111)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:699 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (108b56d4532351793707f4b08a860111)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:759 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (108b56d4532351793707f4b08a860111)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:888 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:592 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (784e32a6b82122beb9ac7a39bfa4d639)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:277 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (784e32a6b82122beb9ac7a39bfa4d639)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:331 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (784e32a6b82122beb9ac7a39bfa4d639)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:220 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:858 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (84d704d023daa7d3016c6ff761dd81d9)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:772 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (84d704d023daa7d3016c6ff761dd81d9)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:829 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (84d704d023daa7d3016c6ff761dd81d9)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:289 INFO  WomenCategoryPage :94 - Drag Slider : 
+2021-12-26 12:12:517 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:629 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (619572efc3b4e837d6ad56e485630826)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:273 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (619572efc3b4e837d6ad56e485630826)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:338 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (619572efc3b4e837d6ad56e485630826)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:308 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:354 INFO  HomePage :48 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-26 12:12:499 INFO  SignInPage :103 - Enter Email : mavhfhvbn4@gmail.com[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> xpath: //input[@id='email_create']]
+2021-12-26 12:12:607 INFO  SignInPage :108 - Click create account  : [[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-26 12:12:335 INFO  CreateAccountPage :107 - Enter Firstname : Bob[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: customer_firstname]
+2021-12-26 12:12:460 INFO  CreateAccountPage :111 - Enter Lastname : Alexa[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: customer_lastname]
+2021-12-26 12:12:619 INFO  CreateAccountPage :123 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: passwd]
+2021-12-26 12:12:771 INFO  CreateAccountPage :115 - Send text to Firstname : Bob[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: firstname]
+2021-12-26 12:12:00 INFO  CreateAccountPage :119 - Send text to Lastname : Alexa[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: lastname]
+2021-12-26 12:12:154 INFO  CreateAccountPage :77 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: address1]
+2021-12-26 12:12:304 INFO  CreateAccountPage :82 - Enter City : london[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: city]
+2021-12-26 12:12:438 INFO  CreateAccountPage :102 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: id_state]
+2021-12-26 12:12:551 INFO  CreateAccountPage :87 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: postcode]
+2021-12-26 12:12:710 INFO  CreateAccountPage :92 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: phone_mobile]
+2021-12-26 12:12:814 INFO  CreateAccountPage :97 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> id: alias]
+2021-12-26 12:12:136 INFO  CreateAccountPage :72 - Click register : [[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> xpath: //span[normalize-space()='Register']]
+2021-12-26 12:12:197 INFO  MyAccountPage :38 - Verify 'My Account' text is displayed : MY ACCOUNT[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-26 12:12:291 INFO  MyAccountPage :32 - Verify Summer Dress Text  : Bob Alexa[[ChromeDriver: chrome on WINDOWS (892075aabaea470a8f0266a6b26ffb4e)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-26 12:12:133 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:514 INFO  ProductPage :56 - Click Add to cart [[ChromeDriver: chrome on WINDOWS (43060239f8e63178c594937d2baf51e7)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-26 12:12:407 INFO  ProductPage :82 - Clicking to Proceed to checkout button[[ChromeDriver: chrome on WINDOWS (43060239f8e63178c594937d2baf51e7)] -> xpath: //span[normalize-space()='Proceed to checkout']]
+2021-12-26 12:12:507 INFO  ShoppingCartPage :28 - Clicking Delete button [[ChromeDriver: chrome on WINDOWS (43060239f8e63178c594937d2baf51e7)] -> xpath: //i[@class='icon-trash']]
+2021-12-26 12:12:557 INFO  ShoppingCartPage :36 - Verify shopping cart is empty Text  Your shopping cart is empty.[[ChromeDriver: chrome on WINDOWS (43060239f8e63178c594937d2baf51e7)] -> css selector: p.alert.alert-warning]
+2021-12-26 12:12:413 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:935 INFO  HomePage :53 - Clicking on Our Stores Link : [[ChromeDriver: chrome on WINDOWS (08cf999a04bbf86d463bbe7109372bca)] -> xpath: //a[contains(text(),'Our stores')]]
+2021-12-26 12:12:139 INFO  StoresPage :32 - Clicking on Map popup  : [[ChromeDriver: chrome on WINDOWS (08cf999a04bbf86d463bbe7109372bca)] -> xpath: //button[contains(text(),'OK')]]
+2021-12-26 12:12:304 INFO  StoresPage :39 - Clicking on Map popup : 
+2021-12-26 12:12:197 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:964 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (60878d8c2e9aa787a39f980ed8e296ea)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:773 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (60878d8c2e9aa787a39f980ed8e296ea)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:817 INFO  WomenCategoryPage :100 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (60878d8c2e9aa787a39f980ed8e296ea)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:313 INFO  WomenCategoryPage :94 - Drag Slider : 
+2021-12-26 12:12:675 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:311 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (ff069357582f53cc12fe9d5f0a9f28d7)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:947 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (ff069357582f53cc12fe9d5f0a9f28d7)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:02 INFO  WomenCategoryPage :78 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (ff069357582f53cc12fe9d5f0a9f28d7)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:864 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:810 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:612 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:691 INFO  HomePage :48 - Clicking on SignIn Link : [[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-26 12:12:324 INFO  SignInPage :29 - Enter Email : icigmigqc2@gmail.com[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> xpath: //input[@id='email_create']]
+2021-12-26 12:12:840 INFO  SignInPage :34 - Click create account  : [[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> xpath: //span[normalize-space()='Create an account']]
+2021-12-26 12:12:953 INFO  CreateAccountPage :103 - Enter Firstname : Bob[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: customer_firstname]
+2021-12-26 12:12:896 INFO  CreateAccountPage :107 - Enter Lastname : Alexa[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: customer_lastname]
+2021-12-26 12:12:663 INFO  CreateAccountPage :119 - Send text to Password : Abc1234[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: passwd]
+2021-12-26 12:12:971 INFO  CreateAccountPage :111 - Send text to Firstname : Bob[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: firstname]
+2021-12-26 12:12:966 INFO  CreateAccountPage :115 - Send text to Lastname : Alexa[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: lastname]
+2021-12-26 12:12:127 INFO  CreateAccountPage :73 - Enter Address  : 1, Bond Street[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: address1]
+2021-12-26 12:12:515 INFO  CreateAccountPage :78 - Enter City : london[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: city]
+2021-12-26 12:12:37 INFO  CreateAccountPage :98 - Select state : Alaska[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: id_state]
+2021-12-26 12:12:199 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-26 12:12:352 INFO  CreateAccountPage :83 - Enter Zipcode : 11111[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: postcode]
+2021-12-26 12:12:95 INFO  CreateAccountPage :88 - Enter PhoneNumber : 0123456789[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: phone_mobile]
+2021-12-26 12:12:362 INFO  CreateAccountPage :93 - Select Reference : Home[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> id: alias]
+2021-12-26 12:12:339 INFO  CreateAccountPage :68 - Click register : [[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> xpath: //span[normalize-space()='Register']]
+2021-12-26 12:12:506 INFO  MyAccountPage :38 - Verify 'My Account' text is displayed : MY ACCOUNT[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-26 12:12:650 INFO  MyAccountPage :32 - Verify Summer Dress Text  : Bob Alexa[[ChromeDriver: chrome on WINDOWS (4828245ff3afe96404e2ab5fc9b5c62f)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-26 12:12:955 INFO  ProductPage :39 - Click Add to cart [[ChromeDriver: chrome on WINDOWS (1ffec834dbc2d381d0a57e8e70174bcf)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-26 12:12:751 INFO  HomePage :53 - Clicking on Our Stores Link : [[ChromeDriver: chrome on WINDOWS (b9da1daa8a5d8fab28fa798e32dca428)] -> xpath: //a[contains(text(),'Our stores')]]
+2021-12-26 12:12:192 INFO  StoresPage :29 - Clicking on Map popup  : [[ChromeDriver: chrome on WINDOWS (b9da1daa8a5d8fab28fa798e32dca428)] -> xpath: //button[contains(text(),'OK')]]
+2021-12-26 12:12:571 INFO  ProductPage :44 - Clicking to Proceed to checkout button[[ChromeDriver: chrome on WINDOWS (1ffec834dbc2d381d0a57e8e70174bcf)] -> xpath: //span[normalize-space()='Proceed to checkout']]
+2021-12-26 12:12:522 INFO  ShoppingCartPage :28 - Clicking Delete button [[ChromeDriver: chrome on WINDOWS (1ffec834dbc2d381d0a57e8e70174bcf)] -> xpath: //i[@class='icon-trash']]
+2021-12-26 12:12:356 INFO  StoresPage :36 - Clicking on Map popup : 
+2021-12-26 12:12:977 INFO  ShoppingCartPage :36 - Verify shopping cart is empty Text  Your shopping cart is empty.[[ChromeDriver: chrome on WINDOWS (1ffec834dbc2d381d0a57e8e70174bcf)] -> css selector: p.alert.alert-warning]
+2021-12-26 12:12:828 INFO  HomePage :58 - Mousehover on Women menu  : [[ChromeDriver: chrome on WINDOWS (6491e0b063abc634f31a92df326561b1)] -> xpath: //a[@title='Women']]
+2021-12-26 12:12:196 INFO  HomePage :62 - Clicking on Summer Dress  : [[ChromeDriver: chrome on WINDOWS (6491e0b063abc634f31a92df326561b1)] -> xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']]
+2021-12-26 12:12:255 INFO  WomenCategoryPage :78 - Verify Summer Dress Text : SUMMER DRESSES [[ChromeDriver: chrome on WINDOWS (6491e0b063abc634f31a92df326561b1)] -> xpath: //span[@class='cat-name']]
+2021-12-26 12:12:719 INFO  WomenCategoryPage :72 - Drag Slider : 
+2021-12-27 13:12:723 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-27 13:12:494 INFO  HomePage :53 - Clicking on Our Stores Link : [[ChromeDriver: chrome on WINDOWS (8ce93b32c6aeb0f327e4797aabf91225)] -> xpath: //a[contains(text(),'Our stores')]]
+2021-12-27 13:12:670 INFO  StoresPage :29 - Clicking on Map popup  : [[ChromeDriver: chrome on WINDOWS (8ce93b32c6aeb0f327e4797aabf91225)] -> xpath: //button[contains(text(),'OK')]]
+2021-12-27 13:12:652 INFO  StoresPage :36 - Clicking on Map popup : 
